@@ -1,7 +1,7 @@
 using System;
 using System.Text.RegularExpressions;
 
-namespace TestNetStandard
+namespace practice
 {
     public class Validation
     {
